@@ -22,7 +22,7 @@ Link: https://www.udemy.com/course/openapi-beginner-to-guru
 
 ✔️ Define developer and server information
 
-✔️ Define an API path, operation, query parameters, path parameters
+✔️ Define an API path, operation, query parameters, and path parameters
 
 ✔️ Create API security schemes
 
